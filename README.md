@@ -2,6 +2,7 @@
 A Chat gtp telegram bot
 
 How to create this:
+
 1 - Fork this repository, making your forked repository private to protect your openAI and Telegram Keys.
 
 2 - Edit the file 'harshitethic.py' and replace the keys with the ones you had copied.
