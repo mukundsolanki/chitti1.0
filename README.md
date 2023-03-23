@@ -5,7 +5,7 @@ How to create this:
 
 1 - Fork this repository, making your forked repository private to protect your openAI and Telegram Keys.
 
-2 - Edit the file 'harshitethic.py' and replace the keys with the ones you had copied.
+2 - Edit the file 'bot_by_mukund' and replace the keys with the ones you had copied.
 
 3 - Register or login into your Heroku account.
 
