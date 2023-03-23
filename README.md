@@ -1,5 +1,5 @@
 # chitti1.0
-A Chat gtp telegram bot
+A Chat gpt telegram bot
 
 How to create this:
 
